@@ -1,0 +1,15 @@
+numpy
+# scipy
+matplotlib
+pandas
+geopandas
+shapely
+jupyter
+jupyter_contrib_nbextensions   #https://medium.com/somosfit/version-control-on-jupyter-notebooks-6b67a0cf12a3
+autopep8
+# tqdm
+# networkx
+bokeh
+plotly
+
+rope # refactoring for VS Code

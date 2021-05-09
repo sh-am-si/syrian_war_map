@@ -1,0 +1,1 @@
+web: bokeh serve --port=$PORT --address=0.0.0.0 --allow-websocket-origin=syrian_wat.herokuapp.com --use-xheaders syrian_war_interactive.py
